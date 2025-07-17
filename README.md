@@ -18,3 +18,4 @@
 - ✅ 手動移動地圖中心查詢指定地點
 
 ---
+<img width="294.75" height="639" alt="Simulator Screenshot - iPhone 16 - 2025-07-17 at 08 56 28" src="https://github.com/user-attachments/assets/6a592987-615a-46d9-a8e8-957ad6dede13" />
